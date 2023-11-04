@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-04T08:49:57.017Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="xC6Si-yo6gNTgwbMllwP" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-04T08:52:00.524Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="95dKd24ENKou5Kk_dwvo" version="22.0.8" type="github">
   <diagram name="Page-1" id="krFyd3VAVPyLNUd_DLIA">
     <mxGraphModel dx="1242" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -101,6 +101,9 @@
         </mxCell>
         <mxCell id="BcmAvLzM47DuS9mzZTEV-33" value="SerializableException&lt;br&gt;(core)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1180" y="520" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BcmAvLzM47DuS9mzZTEV-35" value="NetworkException&lt;br&gt;(core)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="80" width="200" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
