@@ -1,9 +1,69 @@
-<mxfile host="app.diagrams.net" modified="2023-11-04T08:35:32.074Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" version="22.0.8" etag="dA7XlTFAUrehTXsu4J2B" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-04T08:43:53.184Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="zKUtBJCU77GC2WubSTrV" version="22.0.8" type="github">
   <diagram name="Page-1" id="krFyd3VAVPyLNUd_DLIA">
-    <mxGraphModel>
+    <mxGraphModel dx="1242" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BcmAvLzM47DuS9mzZTEV-1" value="BaseApiException&lt;br&gt;(core)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="360" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BcmAvLzM47DuS9mzZTEV-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BcmAvLzM47DuS9mzZTEV-2" target="BcmAvLzM47DuS9mzZTEV-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="480" />
+              <mxPoint x="380" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BcmAvLzM47DuS9mzZTEV-2" value="CreateCompilationLimitException (realty-favorites)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="680" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BcmAvLzM47DuS9mzZTEV-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BcmAvLzM47DuS9mzZTEV-4" target="BcmAvLzM47DuS9mzZTEV-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="480" />
+              <mxPoint x="380" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BcmAvLzM47DuS9mzZTEV-4" value="ElecSignServerException&lt;br&gt;(elecsign)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="680" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BcmAvLzM47DuS9mzZTEV-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BcmAvLzM47DuS9mzZTEV-6" target="BcmAvLzM47DuS9mzZTEV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BcmAvLzM47DuS9mzZTEV-6" value="ForbiddenException&lt;br&gt;(app)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="520" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BcmAvLzM47DuS9mzZTEV-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BcmAvLzM47DuS9mzZTEV-8" target="BcmAvLzM47DuS9mzZTEV-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="480" />
+              <mxPoint x="380" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BcmAvLzM47DuS9mzZTEV-8" value="HideOfferLimitException&lt;br&gt;(realty-listing)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="680" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BcmAvLzM47DuS9mzZTEV-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BcmAvLzM47DuS9mzZTEV-10" target="BcmAvLzM47DuS9mzZTEV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BcmAvLzM47DuS9mzZTEV-10" value="ManyRequestsException&lt;br&gt;(app)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="520" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BcmAvLzM47DuS9mzZTEV-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BcmAvLzM47DuS9mzZTEV-12" target="BcmAvLzM47DuS9mzZTEV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BcmAvLzM47DuS9mzZTEV-12" value="NetworkException&lt;br&gt;(core)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="360" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BcmAvLzM47DuS9mzZTEV-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BcmAvLzM47DuS9mzZTEV-14" target="BcmAvLzM47DuS9mzZTEV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BcmAvLzM47DuS9mzZTEV-14" value="ServerException&lt;br&gt;(app)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="520" width="200" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
