@@ -1,18 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2024-06-10T19:56:09.484Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="Py3YWWpJpVPZ6-yC3jzo" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-10T19:57:03.919Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="xbiegOEO63DE0hyCi4HH" version="24.5.2" type="github">
   <diagram name="Page-1" id="MvlsOSUOAZ1vel8qD287">
-    <mxGraphModel dx="14899" dy="574" grid="1" gridSize="3.937" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="13780" pageHeight="9843" math="0" shadow="0">
+    <mxGraphModel dx="54060" dy="20680" grid="1" gridSize="3.937" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="13780" pageHeight="9843" math="0" shadow="0">
       <root>
         <mxCell id="0" />
+        <mxCell id="3ldCkIPaAfVZW62103t2-4" parent="0" />
+        <mxCell id="3ldCkIPaAfVZW62103t2-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=0;movable=0;resizable=0;rotatable=0;cloneable=0;deletable=0;" vertex="1" parent="3ldCkIPaAfVZW62103t2-4">
+          <mxGeometry width="12405.487" height="9838.563" as="geometry" />
+        </mxCell>
         <mxCell id="3ldCkIPaAfVZW62103t2-6" value="Боковая стойка" parent="0" />
         <mxCell id="3ldCkIPaAfVZW62103t2-12" value="" style="group;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=0;" vertex="1" connectable="0" parent="3ldCkIPaAfVZW62103t2-6">
           <mxGeometry x="3.94" y="59.06" width="1771.65" height="9779.5" as="geometry" />
         </mxCell>
         <mxCell id="3ldCkIPaAfVZW62103t2-11" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0;fillColor=default;fillStyle=auto;" vertex="1" parent="3ldCkIPaAfVZW62103t2-12">
           <mxGeometry x="62.99699999999996" y="62.61881552214514" width="1645.666" height="9654.27230892357" as="geometry" />
-        </mxCell>
-        <mxCell id="3ldCkIPaAfVZW62103t2-4" parent="0" />
-        <mxCell id="3ldCkIPaAfVZW62103t2-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=0;movable=0;resizable=0;rotatable=0;cloneable=0;deletable=0;" vertex="1" parent="3ldCkIPaAfVZW62103t2-4">
-          <mxGeometry width="12405.487" height="9838.563" as="geometry" />
         </mxCell>
         <mxCell id="3ldCkIPaAfVZW62103t2-14" value="Котел" parent="0" />
         <mxCell id="3ldCkIPaAfVZW62103t2-13" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0;fillColor=#E6E6E6;" vertex="1" parent="3ldCkIPaAfVZW62103t2-14">
