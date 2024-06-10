@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-10T20:37:46.002Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="cOIdaFmCV7U_aYhF3e4J" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-10T20:42:37.514Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="b06dZxp1311KUEpom2eJ" version="24.5.2" type="github">
   <diagram name="Page-1" id="MvlsOSUOAZ1vel8qD287">
     <mxGraphModel dx="33920" dy="10340" grid="1" gridSize="3.937" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="13780" pageHeight="9843" math="0" shadow="0">
       <root>
@@ -72,6 +72,10 @@
         </mxCell>
         <mxCell id="3ldCkIPaAfVZW62103t2-23" value="неизвестен отступ от левого края котла до этой трубы" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#E6E6E6;shadow=1;" vertex="1" parent="3ldCkIPaAfVZW62103t2-14">
           <mxGeometry x="9291.32" y="216.54" width="314.96" height="2224.4" as="geometry" />
+        </mxCell>
+        <mxCell id="3ldCkIPaAfVZW62103t2-40" value="вытяжка" parent="0" />
+        <mxCell id="3ldCkIPaAfVZW62103t2-41" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;" vertex="1" parent="3ldCkIPaAfVZW62103t2-40">
+          <mxGeometry x="5688.965" y="511.81" width="511.81" height="629.92" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
