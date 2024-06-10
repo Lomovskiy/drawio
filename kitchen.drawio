@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-10T19:43:34.571Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="CQ_yPFdlMInenVdjz1Uj" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-10T19:47:49.835Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="FL6jj8_vDxKwyaajR_Mo" version="24.5.2" type="github">
   <diagram name="Page-1" id="MvlsOSUOAZ1vel8qD287">
-    <mxGraphModel dx="20140" dy="10340" grid="1" gridSize="3.937" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="13780" pageHeight="9843" math="0" shadow="0">
+    <mxGraphModel dx="6713" dy="3447" grid="1" gridSize="3.937" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="13780" pageHeight="9843" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="3ldCkIPaAfVZW62103t2-6" value="Боковая стойка" parent="0" />
@@ -26,6 +26,9 @@
         </mxCell>
         <mxCell id="3ldCkIPaAfVZW62103t2-18" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#E6E6E6;" vertex="1" parent="3ldCkIPaAfVZW62103t2-14">
           <mxGeometry x="9303.13" y="5267.71" width="1318.9" height="4570.85" as="geometry" />
+        </mxCell>
+        <mxCell id="3ldCkIPaAfVZW62103t2-21" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#E6E6E6;shadow=1;" vertex="1" parent="3ldCkIPaAfVZW62103t2-14">
+          <mxGeometry x="9807.07" y="157.48" width="314.96" height="2283.46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
