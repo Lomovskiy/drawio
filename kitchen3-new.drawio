@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-22T08:18:01.635Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="IZuVSy5V0zOYsiQZVASB" version="24.6.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-06-22T08:31:39.114Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="u0x8orLtMwlxVdQCRRK-" version="24.6.1" type="github" pages="2">
   <diagram name="left" id="koKkgfx4V1DcDY4L06e6">
-    <mxGraphModel dx="994" dy="625" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3150" pageHeight="2499" math="0" shadow="0">
+    <mxGraphModel dx="410" dy="258" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3150" pageHeight="2499" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -249,7 +249,7 @@
         </mxCell>
         <mxCell id="EK9v8JkH4PZetZc3i3iM-2" value="электрика" parent="0" />
         <mxCell id="EK9v8JkH4PZetZc3i3iM-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="EK9v8JkH4PZetZc3i3iM-2" vertex="1">
-          <mxGeometry x="494" y="1471" width="220" height="80" as="geometry" />
+          <mxGeometry x="494" y="1410" width="220" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
